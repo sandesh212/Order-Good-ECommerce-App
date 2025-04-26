@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Poppins:wght@300;400&display=swap');
+*{
+  font-family:Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* 
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif; */
+
+/*NavBar Css*/
+.navbar{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 17px;
+  line-height: 26px;
+  text-transform: uppercase;
+  box-shadow: 0px 8px 6px -6px grey;
+  border-bottom: 0.3px grey solid !important;
+}
+.nav-link{
+  font-weight: 300 !important;
+}
+.navbar-brand{
+  font-weight: 700;
+  font-family: 'roboto', sans-serif;
+  letter-spacing: 3px;
+}
+
+/*Contact us Css*/
+.container-contact{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.img-fluid{
+  margin: 0 auto;
+  display: block;
+  margin-top: 20%;
+}
+.vh-100{
+  margin-top: 50px;
+  margin-bottom: 250px;
+}
+
+.user-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.user-table th, .user-table td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.user-table th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+.avatar {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+}
