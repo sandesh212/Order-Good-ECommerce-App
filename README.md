@@ -16,7 +16,7 @@ This is a MERN (MongoDB, Express.js, React.js, Node.js) E-commerce application f
 
 2. Navigate to the client directory:
     ```bash
-    cd order-good/client
+    cd Order-Good-ECommerce-app/client
     ```
 
 3. Install client-side dependencies:
@@ -31,7 +31,7 @@ This is a MERN (MongoDB, Express.js, React.js, Node.js) E-commerce application f
 
 5. Open another terminal and navigate to the server directory:
     ```bash
-    cd ../server
+    cd Order-Good-ECommerce-app/server
     ```
 
 6. Create a `.env` file in the `server` directory and add the following environment variables:
