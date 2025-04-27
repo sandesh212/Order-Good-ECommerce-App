@@ -34,7 +34,7 @@ This is a MERN (MongoDB, Express.js, React.js, Node.js) E-commerce application f
     cd Order-Good-ECommerce-app/server
     ```
 
-6. Create a `.env` file in the `server` directory and add the following environment variables:
+6. If needed Create a `.env` file in the `server` or 'client' directory and add the following environment variables:
     ```
     PORT=5000
     MONGODB_URI=your_mongodb_uri
